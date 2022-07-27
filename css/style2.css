@@ -1,14 +1,17 @@
 .contact{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     color: skyblue;
 }
 
 .skills{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     color: darkred;
 }
 
 .contactinfo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-
+    color: darkgreen;
 }
