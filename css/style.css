@@ -1,7 +1,10 @@
+/* bg image */
 body{
-    background-color: darkblue;
+    background-image: ;
 }
 
+/* text styles */
 .about{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
