@@ -1,7 +1,14 @@
 .contact{
     text-align: center;
+    color: skyblue;
 }
 
 .skills{
     text-align: center;
+    color: darkred;
+}
+
+.contactinfo{
+    text-align: center;
+
 }
