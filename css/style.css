@@ -1,7 +1,11 @@
+body, html {
+    height: 100%;
+  }
+
 /* bg image */
 .bg-image{
     /* img */
-    background-image: url("pics/vvms.jpg");
+    background-image: url("../pics/vizz_ms.jpg");
     /* blur */
     filter: blur(8px);
     -webkit-filter: blur(8px);
@@ -13,8 +17,23 @@
     background-size: cover;
 }
 
-/* text styles */
-.about{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+/* middle */
+.text-image {
+    background-color: rgb(0,0,0); /* fallback color */
+    background-color: rgba(0,0,0, 0.4); /* black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
     text-align: center;
+  }
+
+/* text styles */
+.text1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
