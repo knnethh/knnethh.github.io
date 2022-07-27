@@ -11,10 +11,6 @@ body, html {
     -webkit-filter: blur(8px);
     /* full height */
     height: 100%;
-    /* center and scale */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 /* middle */
